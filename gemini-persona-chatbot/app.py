@@ -54,7 +54,7 @@ system_prompt = personalities[selected]
 # Chat input
 question = st.chat_input("Type your message here…")
 
-if question:
+if question and question.strip():
     with st.spinner("Thinking…"):
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -64,3 +64,5 @@ if question:
             ),
         )
     st.write(response.text)
+elif question is not None:
+    st.warning("Please enter a message before sending!")
