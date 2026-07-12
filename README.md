@@ -1,11 +1,4 @@
 # Mirai AI Summer Internship
----
-
-## About
-
-This repo contains hands-on assignments completed during the internship, covering applied AI, NLP, and generative AI using the Gemini API and Streamlit.
-
----
 
 ## Projects
 
