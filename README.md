@@ -14,3 +14,5 @@
 - python-dotenv
 
 *Note: Each subfolder has its own README with full details and setup instructions.*
+
+After writing it, please open the raw file and confirm each section is on its own line before committing and pushing.
