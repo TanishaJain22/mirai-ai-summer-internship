@@ -1,6 +1,6 @@
 # Mirai AI Summer Internship
 
-8-week AI Summer Internship at **Mirai School of Technology** (AI Builder Track), starting 2nd July 2026.
+AI Summer Internship at **Mirai School of Technology** (AI Builder Track)
 
 ---
 
